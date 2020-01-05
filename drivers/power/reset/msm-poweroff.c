@@ -214,6 +214,7 @@ static int dload_set(const char *val, const struct kernel_param *kp)
 	return 0;
 }
 #else
+static bool force_warm_reboot;
 static void set_dload_mode(int on)
 {
 	return;
