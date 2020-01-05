@@ -1,0 +1,36 @@
+#
+# Goodix GT9xx Touchscreen driver
+#
+config CONFIG_TOUCHSCREEN_GT9XX_MIDO
+	bool "Goodix touchpanel GT9xx series for MIDO"
+	depends on I2C
+	help
+	  Enable this for support Goodix GT9xx_v28 driver.
+
+	  Say Y here if you have a Goodix GT9xx touchscreen
+	  controller.
+
+          If unsure, say N.
+
+config CONFIG_TOUCHSCREEN_GT9XX_MIDO_UPDATE
+	tristate "Goodix GT9xx touch controller auto update support"
+	depends on CONFIG_TOUCHSCREEN_GT9XX_MIDO
+	help
+	  Enable this for support firmware update.
+
+	  Say Y here if you want update touch controller
+	  firmware.
+
+	  If unsure, say N.
+
+config CONFIG_TOUCHSCREEN_GT9XX_MIDO_TOOL
+	tristate "Goodix GT9xx Tools for debuging"
+	depends on CONFIG_TOUCHSCREEN_GT9XX_MIDO
+	help
+	  This implement interface support for Goodix GT9xx
+	  touchscreen debug.
+
+	  Say Y here if you want to have a Android app debug interface
+	  to your system.
+
+	  If unsure, say N.
