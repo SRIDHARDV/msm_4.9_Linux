@@ -78,19 +78,20 @@
 	};
 };
 
-&qrd_batterydata {
-	qcom,batt-id-range-pct = <5>;
-	#include "batterydata-qrd-sunwoda-4v4-4100mah.dtsi"
-	#include "batterydata-qrd-sunwoda-ATL-4v4-4100mah.dtsi"
-	#include "batterydata-qrd-coslight-4v4-4100mah.dtsi"
-	#include "batterydata-qrd-desay-lisheng-4v4-4100mah.dtsi"
-	#include "batterydata-qrd-desay-4v4-4100mah.dtsi"
-	/delete-node/ qcom,qrd_msm8937_sku1_2920mah;
-
+/ {
+	qrd_batterydata: qcom,battery-data {
+                qcom,batt-id-range-pct = <5>;
+                #include "batterydata-qrd-sunwoda-4v4-4100mah.dtsi"
+                #include "batterydata-qrd-sunwoda-ATL-4v4-4100mah.dtsi"
+                #include "batterydata-qrd-coslight-4v4-4100mah.dtsi"
+                #include "batterydata-qrd-desay-lisheng-4v4-4100mah.dtsi"
+                #include "batterydata-qrd-desay-4v4-4100mah.dtsi"
+        };
 };
 
 
-&pmi8950_charger {
+&qpnp_smbcharger {
+        qcom,battery-data = <&qrd_batterydata>;
 	qcom,float-voltage-mv = <4400>;
 	qcom,resume-delta-mv = <50>;
 	qcom,charge-unknown-battery;
@@ -98,6 +99,7 @@
 	qcom,fastchg-current-comp = <1200>;
 	qcom,float-voltage-comp = <16>;
 	qcom,thermal-mitigation = <3000 2500 2000 2000 1000 500 0>;
+        status = "okay";
 	/delete-property/ qcom,parallel-usb-min-current-ma;
 	/delete-property/ qcom,parallel-usb-9v-min-current-ma;
 	/delete-property/ qcom,parallel-allowed-lowering-ma;
@@ -108,7 +110,8 @@
 	/delete-property/ qcom,autoadjust-vfloat;
 };
 
-&pmi8950_fg {
+&qpnp_fg {
+        qcom,battery-data = <&qrd_batterydata>;
 	qcom,resume-soc = <99>;
 	qcom,fg-cutoff-voltage-mv = <3400>;
 	qcom,fg-cc-cv-threshold-mv = <4380>;
@@ -485,11 +488,11 @@
 };
 
 
-&pm8953_diangu_dig {
+&msm_digital_codec {
 	status = "ok";
 };
 
-&pm8953_diangu_analog {
+&pmic_analog_codec {
 	status = "ok";
 };
 
