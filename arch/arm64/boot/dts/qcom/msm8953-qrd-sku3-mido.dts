@@ -36,7 +36,6 @@
 };
 
 #include "msm8953-qrd-sku3.dtsi"
-#include "msm8953-camera-sensor-qrd.dtsi"
 
 &usb3 {
 	vbus_dwc3-supply = <&smbcharger_charger_otg>;
