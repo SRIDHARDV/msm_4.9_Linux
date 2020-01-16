@@ -67,4 +67,4 @@
 	};
 };
 
-#include "mido/msm8953-mido.dtsi"
+#include "mido/msm8953-qrd-sku3-mido-overlay.dtsi"
