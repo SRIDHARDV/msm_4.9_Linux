@@ -308,6 +308,7 @@
         };
 
 	i2c@78b7000 {
+                status = "okay";
                 focaltech@38 {
                         compatible = "focaltech,5435";
                         reg = <0x38>;
@@ -488,14 +489,6 @@
 };
 
 
-&msm_digital_codec {
-	status = "ok";
-};
-
-&pmic_analog_codec {
-	status = "ok";
-};
-
 &ext_codec {
 	status = "disabled";
 };
@@ -522,4 +515,24 @@
 
 &wcd9xxx_intc {
 	status = "disabled";
+};
+
+&wsa881x_i2c_f {
+        status = "disabled";
+};
+
+&wsa881x_i2c_45 {
+        status = "disabled";
+};
+
+&wsa881x_analog_vi_gpio {
+        status = "disabled";
+};
+
+&wsa881x_analog_clk_gpio {
+        status = "disabled";
+};
+
+&wsa881x_analog_reset_gpio {
+        status = "disabled";
 };
