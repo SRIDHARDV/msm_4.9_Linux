@@ -1,0 +1,193 @@
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/tmc@6027000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/replicator@6026000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/funnel@6021000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/funnel@6100000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/funnel@6120000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/funnel@6130000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/funnel@61d0000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/funnel@61a1000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/tpda@6003000/ports/port@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_sim_video/qcom,mdss-dsi-display-timings/timing@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_dual_sim_video/qcom,mdss-dsi-display-timings/timing@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_sim_cmd/qcom,mdss-dsi-display-timings/timing@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_sim_cmd/qcom,mdss-dsi-display-timings/timing@1 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_sim_cmd/qcom,mdss-dsi-display-timings/timing@2 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_dual_sim_cmd/qcom,mdss-dsi-display-timings/timing@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_dual_sim_cmd/qcom,mdss-dsi-display-timings/timing@1 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mdss_mdp@1a00000/qcom,mdss_dsi_dual_sim_cmd/qcom,mdss-dsi-display-timings/timing@2 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,cpu-bwmon has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pm8953@0/mpps has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pm8953@0/gpios has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pm8953@0/gpios/gpio@c000 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pm8953@0/gpios/gpio@c700 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pm8953@1/analog-codec@f000/msm-dig-codec has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pmi8950@2/gpios has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pmi8950@2/gpios/gpio@c000 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,spmi@200f000/qcom,pmi8950@2/mpps has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/cpr4-ctrl@b018000/thread@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/sound has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/sound-9335 has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/msm_cdc_pinctrl@67 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /soc/qcom,mpm@601d4 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /memory has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /vendor has a reg or ranges property, but no unit name
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /reserved-memory/venus_region@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /reserved-memory/secure_region@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /reserved-memory/qseecom_region@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /reserved-memory/adsp_region@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /reserved-memory/adsp_shmem_device_region@0xc0100000 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_vs_reg): Node /reserved-memory/gpu_region@0 has a unit name, but no reg property
+mido_linux_4_9_dts.dts: Warning (unit_address_format): Node /reserved-memory/splash_region@0x90001000 unit name should not have leading "0x"
+mido_linux_4_9_dts.dts: Warning (unit_address_format): Node /reserved-memory/adsp_shmem_device_region@0xc0100000 unit name should not have leading "0x"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,rpm-smd missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/cpuss_dump missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,lpm-levels missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/devfreq_spdm_cpu missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/devfreq_spdm_gov missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/wcn_etm0 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/rpm_etm0 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/audio_etm0 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/modem_etm0 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/modem_etm1 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,ion missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/kgsl_iommu_test_device0 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/venus-ddr-gov missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,kgsl-hyp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,kgsl-busmon missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,gpubw missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mdss_dsi@0 simple-bus unit address format error, expected "1a94000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mdss_wb_panel missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mdss_rotator missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mdss_dsi_pll@994400 simple-bus unit address format error, expected "1a94400"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mdss_dsi_pll@996400 simple-bus unit address format error, expected "1a96400"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2p-modem@0x0b011008 simple-bus unit address format error, expected "b011008"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2p-wcnss@0x0b011008 simple-bus unit address format error, expected "b011008"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2p-adsp@0x0b011008 simple-bus unit address format error, expected "b011008"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-15-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_15_in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-15-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_15_out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-1-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_1_in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-1-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_1_out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-4-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_4_in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-4-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_4_out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-2-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_2_in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-smp2p-2-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio_test_smp2p_2_out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-ssr-smp2p-1-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-ssr-smp2p-1-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-ssr-smp2p-2-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-ssr-smp2p-2-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-ssr-smp2p-4-in missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smp2pgpio-ssr-smp2p-4-out missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/wake-gpio missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/timer missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,rmtfs_sharedmem@00000000 simple-bus unit address format error, expected "0"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/cpu-pmu missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,sps missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/thermal-zones missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/mem_dump missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/tz-log@08600720 simple-bus unit address format error, expected "8600720"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,cpu-clock-8953@b116000 simple-bus unit address format error, expected "b114000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-cpufreq missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,cpubw missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mincpubw missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,cpu-bwmon simple-bus unit address format error, expected "408000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/devfreq-cpufreq missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,cpubw-compute missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mincpubw-compute missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smdtty missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,smdpkt missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,iris-fm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,chd_silver missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,chd_gold missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-rtb missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,memshare missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-adsprpc-mem missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm_fastrpc missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,ipa@07900000 simple-bus unit address format error, expected "7900000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,rmnet-ipa missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,wcnss-wlan@0a000000 simple-bus unit address format error, expected "a000000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-ssc-sensors missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/eldo2 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/adv_vreg missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qmi-tmd-devices missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,adsp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,vfe missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,cam_smmu missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-routing missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-compr-dsp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-low-latency missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-ultra-low-latency missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-dsp-noirq missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-compress-dsp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-voip-dsp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-voice missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-stub-codec missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-fe missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-afe missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-q6-hdmi missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-q6-dp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-loopback missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-mi2s missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-lsm-client missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-q6 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pcm-hostless missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-audio-apr missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-pri-auxpcm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-sec-auxpcm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-tert-auxpcm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-quat-auxpcm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-quin-auxpcm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-hdmi-dba-codec-rx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-audio-ion missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-adsp-loader missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-pri-rx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-pri-tx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-sec-rx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-sec-tx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-tert-rx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-tert-tx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-quat-rx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-quat-tx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-quin-rx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-dai-tdm-quin-tx missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/sound simple-bus unit address format error, expected "c051000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/msm_cdc_pinctrl_us_euro_sw missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/cdc_comp_pinctrl missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/msm_cdc_pinctrl_pri missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/msm_cdc_pinctrl_quin missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/wsa881x_analog_vi_pctrl missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/wsa881x_analog_clk_pctrl missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/wsa881x_analog_reset_pctrl missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/sound-9335 simple-bus unit address format error, expected "c051000"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,msm-cpe-lsm missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/wcd9xxx-irq missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/audio_ext_clk missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/msm_cdc_pinctrl@67 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,camera-flash missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/vdd_vreg missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/gpio_keys missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/dsi_panel_pwr_supply missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/qcom,mpm@601d4 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/snfuse@0xa4128 simple-bus unit address format error, expected "a4128"
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/pwm_ir missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/goodix_fp missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (simple_bus_reg): Node /soc/fpc1020 missing or empty reg/ranges property
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/wsa881x_analog_vi_pctrl or bad phandle (referred from /soc/i2c@78b6000/wsa881x-i2c-codec@f:qcom,wsa-analog-vi-gpio[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/wsa881x_analog_clk_pctrl or bad phandle (referred from /soc/i2c@78b6000/wsa881x-i2c-codec@f:qcom,wsa-analog-clk-gpio[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/wsa881x_analog_reset_pctrl or bad phandle (referred from /soc/i2c@78b6000/wsa881x-i2c-codec@f:qcom,wsa-analog-reset-gpio[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/msm_cdc_pinctrl_us_euro_sw or bad phandle (referred from /soc/sound:qcom,cdc-us-eu-gpios[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/cdc_comp_pinctrl or bad phandle (referred from /soc/sound:qcom,cdc-comp-gpios[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/msm_cdc_pinctrl_pri or bad phandle (referred from /soc/sound:qcom,pri-mi2s-gpios[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/msm_cdc_pinctrl_quin or bad phandle (referred from /soc/sound:qcom,quin-mi2s-gpios[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/msm_cdc_pinctrl_us_euro_sw or bad phandle (referred from /soc/sound-9335:qcom,cdc-us-eu-gpios[0])
+mido_linux_4_9_dts.dts: Warning (gpios_property): Missing property '#gpio-cells' in node /soc/msm_cdc_pinctrl_quin or bad phandle (referred from /soc/sound-9335:qcom,quin-mi2s-gpios[0])
+mido_linux_4_9_dts.dts: Warning (interrupts_property): interrupts size is (12), expected multiple of 8 in /soc/pinctrl@1000000
