@@ -536,3 +536,7 @@
 &wsa881x_analog_reset_gpio {
         status = "disabled";
 };
+
+&apps_iommu {
+	qcom,no-aarch64;
+};
