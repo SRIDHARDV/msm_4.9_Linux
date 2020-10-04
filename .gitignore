@@ -18,7 +18,7 @@
 *.so
 *.so.dbg
 *.mod.c
-*.i
+#*.i    Firmware Files are in *.i extention
 *.lst
 *.symtypes
 *.order
