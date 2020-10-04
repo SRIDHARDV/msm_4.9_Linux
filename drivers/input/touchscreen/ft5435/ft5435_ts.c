@@ -1167,7 +1167,7 @@ static irqreturn_t ft5435_ts_interrupt(int irq, void *dev_id)
 	}
 	else if (status == 1) {
 		printk("[FTS]Up pid[%d]:[%d, %d]\n", id, x, y);
-
+	}
 		if (x < data->pdata->panel_maxx && y < data->pdata->panel_maxy) {
 			if (status == FT_TOUCH_DOWN || status == FT_TOUCH_CONTACT) {
 				input_mt_report_slot_state(ip_dev, MT_TOOL_FINGER, 1);
@@ -1189,7 +1189,6 @@ static irqreturn_t ft5435_ts_interrupt(int irq, void *dev_id)
 				}
 			}
 		}
-	}
 	}
 
 	if (update_input) {
